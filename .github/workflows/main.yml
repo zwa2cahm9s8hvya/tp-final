@@ -1,0 +1,19 @@
+name: Pipeline de validation
+on: [pull_request, push]
+
+jobs:
+  test-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Build de l'image
+        run: docker build -t loueunechevre:test .
+
+      - name: Smoke Test
+        run: |
+          docker run -d -p 8080:80 --name app-test loueunechevre:test
+          sleep 5
+          # Vérifie si la page d'accueil répond (code 200)
+          curl -I http://localhost:8080 | grep "200 OK"
+
