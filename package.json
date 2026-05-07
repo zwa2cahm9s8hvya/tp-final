@@ -1,0 +1,18 @@
+{
+  "name": "loue-une-chevre-monorepo",
+  "version": "0.4.0",
+  "private": true,
+  "description": "LoueUneChevre.com web, mobile and quote API workspace.",
+  "scripts": {
+    "dev:web": "npm --prefix apps/web run dev",
+    "dev:api": "npm --prefix services/api run dev",
+    "test": "npm --prefix services/api test",
+    "build:web": "npm --prefix apps/web run build",
+    "lint": "echo \"TODO: eslint not configured yet\""
+  },
+  "workspaces": [
+    "apps/web",
+    "apps/mobile",
+    "services/api"
+  ]
+}

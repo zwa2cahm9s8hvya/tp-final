@@ -1,0 +1,17 @@
+date,client,departement,surface_m2,type_terrain,cloture,devis_eur,statut,source
+2026-01-03,Domaine de Bel-Air,24,8500,ronces,a_installer,1280,accepte,web
+2026-01-04,EARL Martin,33,3200,herbe_haute,existante,410,perdu,telephone
+2026-01-05,Gite Les Chenes,46,5400,sous_bois,a_installer,920,accepte,web
+2026-01-07,Mairie de Saint-Cirq,46,12000,pente,a_installer,1880,en_attente,email
+2026-01-09,Famille Renaud,17,900,herbe_haute,existante,180,accepte,web
+2026-01-11,Camping du Moulin,24,18000,ronces,a_installer,2600,perdu,telephone
+2026-01-13,SCI La Prairie,79,4200,herbe_haute,existante,520,accepte,web
+2026-01-16,GAEC des Sources,15,26000,pente,a_installer,3380,en_attente,email
+2026-01-17,Mme Lachaud,33,1100,ronces,existante,260,accepte,web
+2026-01-19,Chateau Bellevue,24,15000,sous_bois,a_installer,2300,accepte,telephone
+2026-01-22,Communaute de communes Val Vert,07,31000,friche,a_installer,4100,en_attente,email
+2026-01-24,Famille Perrier,85,700,herbe_haute,existante,150,perdu,web
+2026-01-26,Le Petit Manoir,16,6400,ronces,a_installer,990,accepte,web
+2026-01-27,M. Gauthier,74,2800,pente,existante,520,accepte,telephone
+2026-01-29,Association Terre Claire,12,10500,friche,a_installer,1700,en_attente,email
+2026-01-31,SCEA La Bergerie,33,4800,herbe_haute,existante,590,accepte,web

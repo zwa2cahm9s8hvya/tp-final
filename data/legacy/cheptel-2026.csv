@@ -1,0 +1,13 @@
+id,nom,race,specialite,statut,zone_reference,notes_veto
+G-001,Marguerite,Alpine,ronces,active,Dordogne,"vaccin OK 2026-01, surveiller sabot arriere droit"
+G-002,Noisette,Naine,petites_surfaces,active,Gironde,"tres sociable, eviter chiens non tenus"
+G-003,Gaston,Rove,pentes,active,Haute-Savoie,"cornes larges, transport a deux personnes"
+G-004,Biscotte,Poitevine,herbe_haute,active,Charente,"bonne endurance"
+G-005,Rosalie,Alpine,sous_bois,active,Lot,"aime traverser les clotures basses"
+G-006,Pixel,Naine,animation_client,active,Dordogne,"utilisee pour photos client"
+G-007,Tornade,Rove,friches,active,Aveyron,"ne pas mettre avec Gaston"
+G-008,Ficelle,Alpine,ronces,repos,Gironde,"repos apres mise bas"
+G-009,Moka,Massif Central,pentes,active,Cantal,"bonne sur terrain humide"
+G-010,Olive,Poitevine,herbe_fine,active,Deux-Sevres,"ras"
+G-011,Praline,Naine,petites_surfaces,active,Vendee,"eviter grand trajet"
+G-012,Ulysse,Rove,debroussaillage_lourd,active,Ardeche,"charge vite quand camion arrive"

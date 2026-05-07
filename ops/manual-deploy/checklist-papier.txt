@@ -1,0 +1,17 @@
+CHECKLIST DEPLOIEMENT - ancienne feuille scannee / recopiee
+
+[ ] Nina dit OK sur Slack
+[ ] Marc connecte au VPN
+[ ] pull main sur prod
+[ ] npm install meme si normalement pas besoin
+[ ] build web
+[ ] restart api
+[ ] curl /health
+[ ] verifier page devis
+[ ] attendre 10 min
+[ ] si support ne crie pas, annoncer "deploy fini"
+
+Notes:
+- penser a vider cache navigateur si CSS bizarre
+- ne pas faire pendant la foire agricole, trafic trop haut
+- le script deploy-prod.sh est "presque bon" mais Marc prefere faire a la main
